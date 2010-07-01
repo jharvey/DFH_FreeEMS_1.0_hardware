@@ -1,0 +1,24 @@
+ERC control (24/8/2008-02:12:56)
+
+***** Sheet 1 (Root)
+ERC: Warning GLabel analog_sensor_in_1 not connected to SheetLabel (X= 2.100 inches, Y= 1.400 inches
+ERC: Warning Pin passive Unconnected (X= 2.100 inches, Y= 1.400 inches
+ERC: Warning GLabel analog_sensor_in_2 not connected to SheetLabel (X= 2.050 inches, Y= 2.750 inches
+ERC: Warning Pin passive Unconnected (X= 2.050 inches, Y= 2.750 inches
+ERC: Warning GLabel analog_sensor_in_3 not connected to SheetLabel (X= 2.000 inches, Y= 4.050 inches
+ERC: Warning Pin passive Unconnected (X= 2.000 inches, Y= 4.050 inches
+ERC: Warning GLabel analog_sensor_in_4 not connected to SheetLabel (X= 1.950 inches, Y= 5.450 inches
+ERC: Warning Pin passive Unconnected (X= 1.950 inches, Y= 5.450 inches
+ERC: Warning GLabel analog_sensor_gnd not connected to SheetLabel (X= 2.100 inches, Y= 1.800 inches
+ERC: Warning Pin power_in not driven (Net 6) (X= 1.950 inches, Y= 5.900 inches
+ERC: Warning GLabel analog_sensor_vcc not connected to SheetLabel (X= 2.750 inches, Y= 0.800 inches
+ERC: Warning GLabel analog_sensor_out_4 not connected to SheetLabel (X= 4.500 inches, Y= 5.450 inches
+ERC: Warning Pin passive Unconnected (X= 4.150 inches, Y= 5.450 inches
+ERC: Warning GLabel analog_sensor_out_3 not connected to SheetLabel (X= 4.550 inches, Y= 4.050 inches
+ERC: Warning Pin passive Unconnected (X= 4.200 inches, Y= 4.050 inches
+ERC: Warning GLabel analog_sensor_out_2 not connected to SheetLabel (X= 4.600 inches, Y= 2.750 inches
+ERC: Warning Pin passive Unconnected (X= 4.250 inches, Y= 2.750 inches
+ERC: Warning GLabel analog_sensor_out_1 not connected to SheetLabel (X= 4.650 inches, Y= 1.400 inches
+ERC: Warning Pin passive Unconnected (X= 4.300 inches, Y= 1.400 inches
+
+ >> Errors ERC: 19

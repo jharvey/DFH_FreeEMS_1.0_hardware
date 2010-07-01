@@ -1,0 +1,39 @@
+--- ToDo list
+A.20 fix power fet driver path. Currently is't buffer to 10k to 10k to 1k, which is far to high. Also look into TVS diodes for suppression remember microsemi.com as a vendor. They have lots of good data sheets.
+
+A.17 recreate symbol and footprint libraries out of the orginals. Just a cleanup task.
+
+A.14 add BIP or what ever chip for ignition footprint / pinout.
+
+A.13 
+- add more notes to things like R43 and R45 from A.12 PDF
+
+A.12
+- Knock sensor?
+
+A.11
+- didn't think of any thing specail, just a place holder, need to contiue to fill footprints.
+
+A.09 - future steps include 
+- create PCB combined modules like Caps and DPAK and TO220 combos
+- [DONE] inversion of signals like RPM input
+- automate PDF creation (script)
+- automate zip file creation (script)
+- QUCS resimulate with 2k instead of 70R (can't seem to get it to work stable over 100R. I'm sure it will work stable in real life.)
+- [DONE] LED's to ouput drivers, perhaps RPM input signal as well
+- [DONE] add footprints to symbols
+- correct signal paths for CPU board, (done mostly at PCB layout)
+- add vendor numbers to field1 or field?
+- correct "Xk"'s and "C"'s from BOM, (figure out what those values should be, and replace the Xk's and C's with the right value)
+- [ONBOARD BUT TYPICALLY NOT WIRED DONE] address injector 12V, should it be on the board, or simply a diode connection?
+
+
+--- ToDo freeEMS 2.0 reminders
+
+- crow bar overvoltage protection for the regulators
+- add ignition current sense reference diy forum --> freeEMS 1.0 pg 15 from davebmw.
+
+
+This log is a reminder for me to remember what to work on. I seem to get on something then forget the other parts, so I'll try to remember to place items to work on here, then some day they will be removed from here, and found under the changes log.
+
+Note to self or anyone that uses windows to remove the /n/r from a windows edited file, use dos2unix inputfile outputfile. You will need to do this if you edit the custom scripts by hand.

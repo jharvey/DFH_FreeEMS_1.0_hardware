@@ -1,0 +1,60 @@
+
+"Line Number","Newark<br />Part Number","Qty","Product Description","Manufacturer Name &amp; Part Number","RoHS","Price","Avail","Extended Price","Line note"
+"1","06F3172","1","Gate / Inverter Logic IC","TEXAS INSTRUMENTS - CD74HC86E","YES ","0.648","In Stock","0.65","74HC86 - -"
+
+"2","32K8448","2","Thick Film Resistor Network","BOURNS - 4116R-1-152LF","YESX ","0.619","In Stock","1.24","R_PACK8 - -"
+"3","38K0371","1","Carbon Film","MULTICOMP - MCF 0.25W 39K","YES ","0.0080","In Stock","0.01","39k - 250mW - 5%"
+
+"4","38K0328","18","Carbon Film","MULTICOMP - MCF 0.25W 10K","YES ","0.0080","In Stock","0.14","10k - 250mW - 5%"
+"5","97M4164","8","Multilayer Ceramic Capacitor","MULTICOMP - MCMLR50V104MY5V","YES ","0.047","In Stock","0.38",".1uF - 50V - 10%"
+"6","75M7682","2","Ceramic Multilayer Capacitor","CORNELL DUBILIER - P10R103K5-F","YES ","0.109","In Stock","0.22",".01uF - 50V - 10%"
+"7","19C6191","2","Ceramic Multilayer Capacitor","AVX - SR151A471JAATR1","NO ","0.099","In Stock","0.2","470pF - 100V - 5%"
+"8","75C3857","2","Pressure Sensors IC","FREESCALE SEMICONDUCTOR - MPXA4100AC6U","YES ","17.19","In Stock","34.38","MPX4100A - xx - xx"
+
+"9","69K8230","4","Aluminum Electrolytic Capacitor","ILLINOIS CAPACITOR - 228KXM050M","YES ","1.14","In Stock","4.56","2200uF - 50V - xx"
+"10","97M4217","4","Tantalum Capacitor","MULTICOMP - MCTAR35V106KE","YES ","0.683","In Stock","2.73","10uF - 35V - 10%"
+
+"11","18C8923","7","Standard Recovery Power Rectifier","FAIRCHILD SEMICONDUCTOR - 1N4007","YES ","0.043","In Stock","0.3","1N4007 - maxV - xx"
+"12","65K3871","2","Wirewound Resistor","VISHAY DALE - CW02C1R000JE70","YES ","0.422","In Stock","0.84","1R - powerW - tol%"
+
+"13","45J1442","2","Linear Voltage Regulator IC","ON SEMICONDUCTOR - MC7805ACTG","YES ","0.405","In Stock","0.81","7805-DIYEFI - xx - xx"
+"14","93K3279","2","Ceramic Multilayer Capacitor","VISHAY BC COMPONENTS - 225232600102","YES ","0.097","In Stock","0.19",".001uF - 100V - 10%"
+
+"15","36K5919","2","Ceramic Multilayer Capacitor","AVX - SR151A331JAR","YES ","0.083","In Stock","0.17","330pF - 100V - 5%"
+"16","89F3212","2","Ceramic Multilayer Capacitor","VISHAY SPRAGUE - 1C10X7R104K050B","YESX ","0.149","In Stock","0.3",".33uF - 50V - 10%"
+
+"17","97M4158","2","Multilayer Ceramic Capacitor","MULTICOMP - MCMLR50V103KX7R","YES ","0.041","In Stock","0.08","10nF - 10V - 10%"
+"18","58K2469","2","LED Lamp","VISHAY SEMICONDUCTOR - TLHG6400","YES ","0.074","In Stock","0.15","LED - green"
+"19","38K0382","4","Carbon Film","MULTICOMP - MCF 0.25W 5K6","YES ","0.0080","In Stock","0.03","5k6 - 250mW - 5%"
+"20","58K4949","2","Carbon Film Resistor","MULTICOMP - MCCFR0S2J0154A20","YES ","0.104","In Stock","0.21","150k - 500mW - 5%"
+"21","38K0327","15","Carbon Film","MULTICOMP - MCF 0.25W 1K","YES ","0.0080","In Stock","0.12","1k - 250mW - 5%"
+
+"22","38K0340","2","Carbon Film","MULTICOMP - MCF 0.25W 1K5","YES ","0.0080","In Stock","0.02","3k - 0.25W - 5%"
+"23","73K0277","2","Carbon Composition Resistor","MULTICOMP - MCRC1/4G165JT-RH","YES ","0.107","In Stock","0.21","1M6 - 250mW - 5%"
+
+"24","58K5022","2","Carbon Film Resistor","MULTICOMP - MCCFR0W4J0183A50","YES ","0.128","In Stock","0.26","18k - 250mW - 5%"
+"25","58K3858","2","Metal Film Resistor","MULTICOMP - MCMF0W4FF4701A50","YES ","0.121","In Stock","0.24","4k7 - 250mW - 1%"
+
+"26","94C4880","2","Metal Film Resistor","VISHAY BC COMPONENTS - 5043ED13K00F12AF5","YES ","0.099","In Stock","0.2","13k - 400mW - 1%"
+"27","71M1054","2","Metal Film Resistors","VISHAY DALE - CCF5522K1FKE36","YES ","0.035","In Stock","0.07","22k - 500mW - 1%"
+
+"28","58K3819","2","Metal Film Resistor","MULTICOMP - MCMF0W4FF1802A50","YES ","0.121","In Stock","0.24","18k - 250mW - 1%"
+"29","58K3844","2","Metal Film Resistor","MULTICOMP - MCMF0W4FF3301A50","YES ","0.121","In Stock","0.24","3k3 - 250mW - 1%"
+
+"30","58K3797","2","Metal Film Resistor","MULTICOMP - MCMF0W4FF1002A50","YES ","0.121","In Stock","0.24","10k - 250mW - 1%"
+"31","89K1104","1","Operational Amplifier (Op-Amp) IC","STMICROELECTRONICS - TL082CN","YES ","0.239","In Stock","0.24","TL082CN - xx - xx"
+
+"32","41K3517","2","Operational Amplifier (Op-Amp) IC","NATIONAL SEMICONDUCTOR - LM1815M/NOPB","YES ","3.05","In Stock","6.1","LM1815 - xx - xx"
+"33","41K8850","2","Metal Film Resistor","VISHAY DALE - CPF22K7000FKE14","YES ","0.421","In Stock","0.84","2.7k - 0.5W - 1%"
+"34","39K8137","13","Multilayer Ceramic Capacitor","KEMET - C326C104K5R5TA","YES ","0.09","In Stock","1.17","100nf - 50V - 10%"
+"35","10M2940","14","Standard Recovery Rectifier","NTE ELECTRONICS - 1N4148","YES ","0.044","In Stock","0.62","1N4148 - 1000V - 1A"
+"36","98K1092","6","Schottky Diodes","MULTICOMP - SS14","YES ","0.114","In Stock","0.68","DIODE - reverseV - currentA"
+
+"37","18M3285","6","Diodes, Zener","VISHAY SEMICONDUCTOR - TZM5231B-GS18","YESX ","0.029","In Stock","0.17","5V1 - 500mW - 20mA"
+"","","","","","","","",""
+"","","","","","","","Subtotal:","59.25"
+"","","","","","","","You Saved:","0.0"
+"","","","","","","","Shipping Cost:","Unknown"
+"","","","","","","","Your Total Price:","59.25"
+"","","","","","","","Tax:","0.0"
+"","","","","","","","Total (excl. Tax & Shipping)","59.25"

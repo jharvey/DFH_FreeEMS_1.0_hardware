@@ -1,0 +1,14 @@
+This is a check list of things to remember to do when making a release. These release were done on a linux fedora core 8 box
+
+check rev is updated in these places, border on shematic, pcb border, pcb eteched version number, pdfmerge script and BOM .lst.
+
+create .ps files with print command
+   in top schematic, file --> plot --> A size - color - sheet ref --> plot all
+   in PCB file --> plot --> coppyer - component - postscript - sheet ref --> plot
+
+convert .ps to pdf with convert-ps2pdf-full.sh (creates combined pdf and removes ps and pdf files)
+
+removed .bak, and ~ files.
+
+zip dir and post pdf and src files.
+

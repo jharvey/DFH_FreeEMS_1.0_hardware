@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0  3/1/2009-01:56:20
+#
+$CMP CONN_1
+D 1 pin
+K CONN
+$ENDCMP
+#
+$CMP PIP-3104
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP SWITCH_INV
+D Switch inverseur
+K switch
+$ENDCMP
+#
+#End Doc Library

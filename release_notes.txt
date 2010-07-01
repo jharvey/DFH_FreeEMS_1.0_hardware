@@ -1,0 +1,16 @@
+--- Release notes, more at http://www.diyefi.org/forum/viewtopic.php?f=9&t=333
+A.20 Not working yet, but very close to beta, now includes a orderable BOM, still needs traces from CPU to circuits
+A.19 basically done, needs traces run from the CPU to the circuits, PCB is ready for review
+A.18 oops, for got to fill this in
+A.17 All major PCB circuits are layed out. This layout is easy to copy and paste, 
+this layout is likely the best to copy if significant changes are needed in the future
+A.16 Added more to the PCB layout, most complicated circuits are PCB drafted, and reviews 
+seem to have stopped, so schematics are likely final.
+A.15 Added and fixed some schematic items, created first draft PCB layout.
+A.14 more tweaking, we have to be getting close to PCB layout now.
+A.12 foot prints are selected, pending review it's ready to move to PCB layout
+A.11 Most footprints are selected, need footprints for caps, a mosfet, and connectors. 
+After that it can enter the PCB layout.
+A.09 basic overview
+- Can generate netlist from schematic almost ready to go to PCB
+- schematic contains most required parts and has been checked by a handful of people

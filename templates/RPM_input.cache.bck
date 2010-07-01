@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  15/11/2008-10:20:25
+#
+$CMP C
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP CONN_1
+D 1 pin
+K CONN
+$ENDCMP
+#
+$CMP LM1815
+D LM1815
+K LM1815
+$ENDCMP
+#
+$CMP LM2903
+D Dual Voltage Comparator
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP SWITCH_INV
+D Switch inverseur
+K switch
+$ENDCMP
+#
+#End Doc Library

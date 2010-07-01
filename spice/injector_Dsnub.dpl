@@ -1,0 +1,30 @@
+<Qucs Schematic 0.0.14>
+<Properties>
+  <View=-96,30,736,727,0.981349,0,0>
+  <Grid=10,10,0>
+  <DataSet=injector_Dsnub.dat>
+  <DataDisplay=injector_Dsnub.sch>
+  <OpenDisplay=1>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 40 567 604 497 3 #c0c0c0 1 00 1 0 0.002 0.02 0 -2 2 18 0 -0.25 0.25 1.5 315 0 225 "" "" "">
+	<"Iinj.It" #0000ff 0 3 0 0 1>
+	<"Vcap.Vt" #ff0000 0 3 0 0 0>
+	<"Vinj_low_side.Vt" #ff00ff 0 3 0 0 0>
+	<"Vinj.Vt" #00ff00 0 3 0 0 0>
+	<"Vp.Vt" #00ffff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

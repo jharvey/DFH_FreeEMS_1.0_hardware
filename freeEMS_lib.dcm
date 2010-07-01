@@ -1,0 +1,62 @@
+EESchema-DOCLIB  Version 2.0  Date: 4/9/2008-01:26:21
+#
+$CMP 74LS86_freeEMS
+D Quad XOR 2 inputs
+K TTL XOR2
+F 74xx/74ls86.pdf
+$ENDCMP
+#
+$CMP 7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP 7805-diyefi
+D Linear Regulator +5V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP 78L05
+D Linear Regulator +5V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP HALL
+D HALL EFFECT
+K HALL EFFECT
+$ENDCMP
+#
+$CMP LM1815
+D LM1815
+K LM1815
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP MOSFET_N
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP MPX4100A
+D MAP SENSOR
+K MAP MPX4100A
+$ENDCMP
+#
+$CMP PIP-3104
+F transistors/mos/*.*
+$ENDCMP
+#
+#End Doc Library
