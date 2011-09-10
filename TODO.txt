@@ -1,4 +1,7 @@
 --- ToDo list
+A.21 combine multiple pages into one page, such that the total page count decreases. 
+change from LM VR chip, to JBPerf's VR board. 
+
 A.20 fix power fet driver path. Currently is't buffer to 10k to 10k to 1k, which is far to high. Also look into TVS diodes for suppression remember microsemi.com as a vendor. They have lots of good data sheets.
 
 A.17 recreate symbol and footprint libraries out of the orginals. Just a cleanup task.

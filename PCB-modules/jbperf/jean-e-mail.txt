@@ -1,0 +1,12 @@
+I don't have any KICAD information for this but using the picture 
+attached and using the upper left corner as my origin and mils as the 
+units (so turn the picture 90 degrees counterclockwise to get the 
+correct axis),  you have a mounting hole at 125,150, the first pad 
+(Out1) is at 300,125 then the other pads are at 400,125;500,125;600,125 
+(Out2, 12V, Ground). The other mounting hole is at 575,950, and the pads 
+are at 100,975;200,975;300,975;400,975 (VR1+, VR1-, VR2-, VR2+).
+
+And the board is 700x1100. The mounting holes have a 125mil diameter. 
+The pads drill size is larger than for standard pin headers to 
+accommodate wires so there will be some play when used with pin headers 
+but that should not be a problem.

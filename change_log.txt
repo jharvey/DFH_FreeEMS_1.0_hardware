@@ -1,3 +1,11 @@
+A.21 P.01
+- Connected injector and ignition sub circuits to TA pins. 
+- Fixed a number of issues found in other spins S12X spins. 
+- Changed several component values, like the LED's include a resistor, so the orginal current limiting resistor can be a diode with better reverse polarity protection, and changed AN filter ciruits to 470R per Fred's empirical tests.
+- Removed hacked attempt at current sensing the injectors.
+- Fixed some issues with the project properties, like trace width specs, and library location(s).
+- Changed licence from TAPR to MIT.
+
 A.20 P.01
 - added at least one vendor for each required part or most parts
 - recreated BOMs, netlists, and such files

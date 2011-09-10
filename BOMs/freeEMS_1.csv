@@ -1,0 +1,353 @@
+ref,value,footprint,Field1,Field2,Field3,Field4,Field5,Field6,Field7,Field8
+C1,2200uF,C1V7,newark,69K8230,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,X,%,Aluminum Electrolytic,other,more,stuff
+C2,10uF,C1V7,newark,97M4217,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,35,V,10,%,Tantalum,other,more,stuff
+C3,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C4,2200uF,C1V7,newark,69K8230,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,x,x,Aluminum Electrolytic,other,more,stuff
+C5,10uF,C1V7,newark,97M4217,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,35,V,10,%,Tantalum,other,more,stuff
+C6,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C7,2200uF,C1V7,newark,69K8230,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,X,%,Aluminum Electrolytic,other,more,stuff
+C8,10uF,C1V7,newark,97M4217,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,35,V,10,%,Tantalum,other,more,stuff
+C9,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C10,2200uF,C1V7,newark,69K8230,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,x,x,Aluminum Electrolytic,other,more,stuff
+C11,10uF,C1V7,newark,97M4217,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,35,V,10,%,Tantalum,other,more,stuff
+C12,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C13,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C14,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C15,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C16,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C17,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C18,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C19,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,multilayer ceramic,other,more,stuff
+C20,.01uF,C1V7,newark,75M7682,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,multilayer ceramic,other,more,stuff
+C21,470pF,C1V7,newark,19C6191,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,100,V,5,%,multilayer ceramic,other,more,stuff
+C22,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,multilayer ceramic,other,more,stuff
+C23,.01uF,C1V7,newark,75M7682,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,multilayer ceramic,other,more,stuff
+C24,470pF,C1V7,newark,19C6191,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,100,V,5,%,multilayer ceramic,other,more,stuff
+C25,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C26,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C27,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C28,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C34,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C35,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C36,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C41,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C42,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C43,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C44,100nf,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C45,10pF,C1V7,newark,97k4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,multilayer ceramic,other,more,stuff
+C46,10pF,C1V7,newark,97k4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,multilayer ceramic,other,more,stuff
+C47,100nF,C1V7,newark,39K8137,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,10,%,Multilayer Ceramic,other,more,stuff
+C48,10pF,C1V7,newark,97k4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,multilayer ceramic,other,more,stuff
+C49,10pF,C1V7,newark,97M4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,Multilayer Ceramic,other,more,stuff
+C50,10pF,C1V7,newark,97M4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,Multilayer Ceramic,other,more,stuff
+C51,10pF,C1V7,newark,97M4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,Multilayer Ceramic,other,more,stuff
+C52,10pF,C1V7,newark,97M4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,Multilayer Ceramic,other,more,stuff
+C53,10pF,C1V7,newark,97M4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,Multilayer Ceramic,other,more,stuff
+C54,10pF,C1V7,newark,97M4148,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,200,V,10,%,Multilayer Ceramic,other,more,stuff
+C55,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C56,.001uF,C1V7,newark,93K3279,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,100,V,10,%,multilayer ceramic,other,more,stuff
+C57,330pF,C1V7,newark,36K5919,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,100,V,5,%,multilayered ceramic,other,more,stuff
+C58,.33uF,C1V7,newark,89F3212,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C59,10nF,C1V7,newark,97M4158,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,10,V,10,%,multilayer ceramic,other,more,stuff
+C60,.1uF,C1V7,newark,97M4164,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C61,.001uF,C1V7,newark,93K3279,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,100,V,10,%,multilayer ceramic,other,more,stuff
+C62,330pF,C1V7,newark,36K5919,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,100,V,5,%,multilayered ceramic,other,more,stuff
+C63,.33uF,C1V7,newark,89F3212,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,50,V,20,%,multilayer ceramic,other,more,stuff
+C64,10nF,C1V7,newark,97M4158,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,10,V,10,%,multilayer ceramic,other,more,stuff
+D9,1N4007,D4-SMB,newark,18C8923,DIGI,S1MBDIDKR-ND,DIGI,1N4007RLOSCT-ND,vendor2, smd w hem,max,V,x,x,construct,other,more,stuff
+D10,1N4007,D4-SMB,newark,18C8923,DIGI,S1MBDIDKR-ND,DIGI,1N4007RLOSCT-ND,vendor2, smd w hem,max,V,x,x,construct,other,more,stuff
+D11,1N4007,D4-SMB,newark,18C8923,DIGI,S1MBDIDKR-ND,DIGI,1N4007RLOSCT-ND,vendor2, smd w hem,max,V,x,x,construct,other,more,stuff
+D12,1N4007,D4-SMB,newark,18C8923,DIGI,S1MBDIDKR-ND,DIGI,1N4007RLOSCT-ND,vendor2, smd w hem,max,V,x,x,construct,other,more,stuff
+D13,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D14,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D15,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D16,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D17,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D18,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D19,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D20,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D21,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D22,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D23,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D24,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D25,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D26,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D27,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D28,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D29,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D30,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D31,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D32,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D33,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D34,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D35,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D36,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D37,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D38,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D49,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D50,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D51,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D52,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D53,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D54,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D63,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D64,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D65,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D66,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D67,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D68,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D69,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D70,1N4148,D4-SMB,newark,10M2940,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,1000,V,1,A,x,other,more,stuff
+D71,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D72,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D73,DIODE,D4-SMB,newark,98K1092,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D74,5V1,D4-SMB,newark,18M3285,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,20,mA,X,other,more,stuff
+D75,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D76,dsnub2,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D78,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D79,dsnub,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D80,dsnub2,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D82,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D83,dsnub,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D84,dsnub2,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D86,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D87,dsnub,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D88,dsnub2,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D90,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D91,dsnub,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D92,dsnub2,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D94,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D95,dsnub,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D96,dsnub2,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D98,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D99,dsnub,D4-SMB,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,reverse,V,current,A,x,other,more,stuff
+D100,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+D101,LED,LEDV,newark,58K2517,newark,,digi,,digi,,10mA,12V,LED with resistor included,other,more,stuff
+F1,2A,FUSE5-20-DEFAULT-2A,newark,63K6823,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,10,A,construct,other,more,stuff
+F2,2A,FUSE5-20-DEFAULT-2A,newark,63K6823,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,10,A,construct,other,more,stuff
+F3,10A,FUSE5-20-DEFAULT-10A,newark,63K6823,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,10,A,construct,other,more,stuff
+P1,CONN_1,1PIN
+P2,CONN_1,1PIN
+P3,CONN_1,1PIN
+P4,CONN_1,1PIN
+P5,CONN_1,1PIN
+P6,CONN_1,1PIN
+P7,CONN_1,1PIN
+P8,CONN_1,1PIN
+P9,CONN_1,1PIN
+P10,CONN_1,1PIN
+P11,CONN_1,1PIN
+P12,CONN_1,1PIN
+P13,CONN_1,1PIN
+P14,CONN_1,1PIN
+P15,CONN_1,1PIN
+P16,CONN_1,1PIN
+P17,CONN_1,1PIN
+P18,CONN_1,1PIN
+P19,CONN_1,1PIN
+P20,CONN_1,1PIN
+P21,CONN_1,1PIN
+P22,CONN_1,1PIN
+P23,CONN_1,1PIN
+P24,CONN_1,1PIN
+P25,CONN_1,1PIN
+P26,CONN_1,1PIN
+P27,CONN_1,1PIN
+P28,CONN_1,1PIN
+P29,CONN_1,1PIN
+P30,CONN_1,1PIN
+P31,CONN_1,1PIN
+P32,CONN_1,1PIN
+P33,CONN_1,1PIN
+P34,CONN_1,1PIN
+P35,CONN_1,1PIN
+P36,CONN_1,1PIN
+P37,CONN_1,1PIN
+P38,CONN_1,1PIN
+P39,CONN_1,1PIN
+P40,CONN_1,1PIN
+P41,CONN_1,1PIN
+P42,CONN_1,1PIN
+P43,CONN_1,1PIN
+P44,CONN_1,1PIN
+P45,CONN_1,1PIN
+P46,CONN_1,1PIN
+P47,CONN_1,1PIN
+P48,CONN_1,1PIN
+P49,CONN_1,1PIN
+P50,CONN_1,1PIN
+P51,CONN_1,1PIN
+P52,CONN_1,1PIN
+P53,CONN_1,1PIN
+P54,CONN_1,1PIN
+P55,9S12XDP512,9S12XDP512,vendor1, thru w hem,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,x,x,x,other,more,stuff
+P101,CONN_1,1PIN
+Q1,MOSFET_N,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q2,MOSFET_N,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q3,MOSFET_N,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q4,MOSFET_N,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q5,MOSFET_N,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q6,MOSFET_N,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q7,MOSFET_M,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q8,MOSFET_M,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q9,MOSFET_M,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q10,MOSFET,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q12,MOSFET,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q14,MOSFET,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q16,MOSFET,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q18,MOSFET,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q20,MOSFET,TO220_sm,element14,1739427,newark,,digi,VNP28N04-E-ND,digi,,28A,42V,OVP protected MOSFET,other,more,stuff
+Q22,MOS_N,TO92,digi,PIP3104-ND,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,8,A,x,x,TOPFET,other,more,stuff
+Q23,MOS_N,TO92,digi,PIP3104-ND,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,8,A,x,x,TOPFET,other,more,stuff
+R9,1R,R7,newark, 65K3871,farnell,1155286,vendor2, thru w hem,vendor2, smd w hem,power,W,tol,%,construct,other,more,stuff
+R10,1R,R7,newark, 65K3871,farnell,1155286,vendor2, thru w hem,vendor2, smd w hem,power,W,tol,%,construct,other,more,stuff
+R11,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R12,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R13,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R14,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R15,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R16,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R17,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R18,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R19,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R20,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R21,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R22,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R23,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R24,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R25,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R26,100k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R27,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R28,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R29,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R30,100k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R31,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R32,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R33,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R34,100k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R35,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R36,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R37,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R38,100k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R39,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R40,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R41,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R42,100k,R4-SM0805,newark,38K0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R43,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R44,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R45,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R46,100k,R4-SM0805,newark,38K0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R47,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R48,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R49,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R50,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R51,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R52,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R53,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R54,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R64,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R65,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R66,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R68,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R69,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R70,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R79,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R80,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R81,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R82,470R,R4-SM0805,newark,65K3814,newark,42K4556,digi,CW02B470R0JE70-ND,digi,CRCW0805470RFKEA,1/4W,5%,carbon film,other,more,stuff
+R83,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R84,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R85,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R86,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R87,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R88,100k,R4-SM0805,newark,38k0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R89,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R90,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R91,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R92,100k,R4-SM0805,newark,38k0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R93,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R94,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R95,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R96,1K,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4W,5%,carbon film,other,more,stuff
+R97,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R98,100k,R4-SM0805,newark,38k0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R99,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R100,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,10,%,carbon film,other,more,stuff
+R101,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R102,100k,R4-SM0805,newark,38K0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R103,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R107,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R108,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R109,100k,R4-SM0805,newark,38K0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R110,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R114,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R115,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R116,100k,R4-SM0805,newark,38K0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R117,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R121,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R122,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R123,100k,R4-SM0805,newark,38K0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R124,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R128,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R129,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R130,100k,R4-SM0805,newark,38K0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R131,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R135,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R136,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R137,100k,R4-SM0805,newark,38K0329,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R138,2.2k,R4-SM0805,newark,38k0352,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R142,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R143,10k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R144,10k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R145,5k6,R4-SM0805,newark,38K0382,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R146,150k,R4-SM0805,newark,58K4949,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,5,%,carbon film,other,more,stuff
+R147,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R148,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R149,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R150,1M6,R4-SM0805,newark,73K0277,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon composition,other,more,stuff
+R151,18k,R4-SM0805,newark,58K5022,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R152,5k,R4-SM0805,newark,38K0382,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R153,4k7,R4-SM0805,newark,58K3858,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R154,13k,R4-SM0805,newark,94C4880,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,400,mW,1,%,metal film,other,more,stuff
+R155,22k,R4-SM0805,newark,71M1054,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,1,%,metal film,other,more,stuff
+R156,18k,R4-SM0805,newark,58K3819,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R157,3k3,R4-SM0805,newark,58K3844,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R158,10k,R4-SM0805,newark,58K3797,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R159,10k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R160,10k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R161,5k6,R4-SM0805,newark,38K0382,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R162,150k,R4-SM0805,newark,58K4949,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,5,%,carbon film,other,more,stuff
+R163,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R164,0R,R4-SM0805,newark,64K9335,newark,36C9353,digi,604HR025E-ND,digi,CRCW08050000ZSTA-ND,1/4W,5%,carbon film,other,more,stuff
+R165,1k,R4-SM0805,newark,65K2365,newark,52K9725,digi,OD102J-ND,digi,CRCW08051K00JNEA,1/4w,5%,carbon film,other,more,stuff
+R166,1M6,R4-SM0805,newark,73K0277,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon composition,other,more,stuff
+R167,18k,R4-SM0805,newark,58K5022,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R168,5k,R4-SM0805,newark,38K0382,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R169,4k7,R4-SM0805,newark,58K3858,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R170,13k,R4-SM0805,newark,94C4880,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,400,mW,1,%,metal film,other,more,stuff
+R171,22k,R4-SM0805,newark,71M1054,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,500,mW,1,%,metal film,other,more,stuff
+R172,18k,R4-SM0805,newark,58K3819,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R173,3k3,R4-SM0805,newark,58K3844,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R174,10k,R4-SM0805,newark,58K3797,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,1,%,metal film,other,more,stuff
+R175,39k,R4-SM0805,newark,38K0371,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R176,10k,R4-SM0805,newark,38k0328,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,250,mW,5,%,carbon film,other,more,stuff
+R177,2.7k,R4-SM0805,newark,41K8850,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,.125,W,1,%,metal film,other,more,stuff
+R178,2.7k,R4-SM0805,newark,41K8850,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,.125,W,1,%,metal film,other,more,stuff
+RP1,R_PACK8,16dip300,newark,32K8448
+SW1,SWITCH_INV,SIL-3
+SW2,SWITCH_INV,SIL-3
+SW3,SWITCH_INV,SIL-3
+SW4,SWITCH_INV,SIL-3
+SW5,SWITCH_INV,SIL-3
+SW6,SWITCH_INV,SIL-3
+SW7,SWITCH_INV,SIL-3,vendor1, thru w hem,vendor1, thru smd w hem,vendor2, thru w hem,vendor2, thru smd w hem,x,x,x,x,x,x,x,x,x
+SW8,SWITCH_INV,SIL-3,vendor1, thru w hem,vendor1, thru smd w hem,vendor2, thru w hem,vendor2, thru smd w hem,x,x,x,x,x,x,x,x,x
+U1,74HC86,14DIP300,newark, 06F3172,vendor1, smd w hem,vendor2, thru e hem,vendor2, smd e hem,x,x,x,x,x,x,x,x
+U2,74HC86,14DIP300,newark, 06F3172,vendor1, smd w hem,vendor2, thru e hem,vendor2, smd e hem,x,x,x,x,x,x,x,x
+U3,7805-DIYEFI,TO220_sm,newark,45J1442,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,x,x,linear,other,more,stuff
+U4,7805-DIYEFI,TO220_sm,newark,45J1442,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,x,x,linear,other,more,stuff
+U5,MPX4100A,SOP_case_482,newark,75C3857,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,x,x,x,other,more,stuff
+U6,MPX4100A,SOP_case_482,newark,75C3857,vendor1, smd w hem,vendor2, thru w hem,vendor2, smd w hem,x,x,x,x,x,other,more,stuff
+U7,LM1815,SO14E,newark,41K3517,vendor2, thru e hem,vendor2, thru w hem,newark,41k3517,x,x,x,x,VR RPM chip,x,x,x
+U8,TL082CN,8DIP300,newark,89K1104,vendor1, smd w hem,digi,497-2213-5-ND,vendor2, smd w hem,x,x,x,x,opamp,other,more,stuff
+U9,LM1815,SO14E,newark,41K3517,vendor2, thru e hem,vendor2, thru w hem,newark,41k3517,x,x,x,x,VR RPM chip,x,x,x

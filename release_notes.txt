@@ -1,4 +1,5 @@
 --- Release notes, more at http://www.diyefi.org/forum/viewtopic.php?f=9&t=333
+A.21 Connected injector and ignition sub circuits to TA pins. Fixed a number of issues found in other spins S12X spins. Changed several component values, like the LED's include a resistor, so the orginal current limiting resistor can be a diode with better reverse polarity protection, and changed AN filter ciruits to 470R per Fred's empirical tests.
 A.20 Not working yet, but very close to beta, now includes a orderable BOM, still needs traces from CPU to circuits
 A.19 basically done, needs traces run from the CPU to the circuits, PCB is ready for review
 A.18 oops, for got to fill this in
