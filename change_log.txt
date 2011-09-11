@@ -1,3 +1,6 @@
+A.21 P.02
+- changed VR from LM chip, to MAX chip via JBPerf board.
+
 A.21 P.01
 - Connected injector and ignition sub circuits to TA pins. 
 - Fixed a number of issues found in other spins S12X spins. 

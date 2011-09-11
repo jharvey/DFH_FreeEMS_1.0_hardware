@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 9/10/2011 11:43:50 AM
+EESchema Schematic File Version 2  date 9/10/2011 9:48:11 PM
 LIBS:power
 LIBS:freeEMS_lib
 LIBS:device
@@ -34,8 +34,8 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 10 41
 Title "DFH for freeEMS"
-Date "10 sep 2011"
-Rev "A.21"
+Date "11 sep 2011"
+Rev "A.21 P.02"
 Comp "FreeEMS.org"
 Comment1 "ignition.sch"
 Comment2 ""

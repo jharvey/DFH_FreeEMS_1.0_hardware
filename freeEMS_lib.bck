@@ -1,6 +1,6 @@
-EESchema-DOCLIB  Version 2.0  Date: 4/9/2008-01:10:07
+EESchema-DOCLIB  Version 2.0  Date: 9/10/2011 3:29:44 PM
 #
-$CMP 74LS86_freeEMS
+$CMP 74LS86_FREEEMS
 D Quad XOR 2 inputs
 K TTL XOR2
 F 74xx/74ls86.pdf
@@ -12,7 +12,7 @@ K POWER REGUL
 F regulator/lm78*.*
 $ENDCMP
 #
-$CMP 7805-diyefi
+$CMP 7805-DIYEFI
 D Linear Regulator +5V
 K POWER REGUL
 F regulator/lm78*.*
@@ -57,6 +57,11 @@ $ENDCMP
 #
 $CMP PIP-3104
 F transistors/mos/*.*
+$ENDCMP
+#
+$CMP VR_JBPerf
+D Symbole general de connecteur
+K CONN
 $ENDCMP
 #
 #End Doc Library
